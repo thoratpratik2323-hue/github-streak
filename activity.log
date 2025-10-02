@@ -7,3 +7,4 @@
 [2025-10-01T14:12:43+05:30] refactor: extract reusable subroutines
 [2025-10-01T18:42:19+05:30] refactor: extract reusable subroutines
 [2025-10-01T19:56:02+05:30] docs: clarify API usage examples in guide
+[2025-10-02T13:08:31+05:30] fix: resolve edge-case boundary conditions
