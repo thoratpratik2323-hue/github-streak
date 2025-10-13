@@ -28,3 +28,4 @@
 [2025-10-12T22:05:08+05:30] docs: clarify API usage examples in guide
 [2025-10-13T12:09:48+05:30] test: add unit test coverage and assertions
 [2025-10-13T13:56:36+05:30] chore: update dependencies and configuration
+[2025-10-13T14:38:24+05:30] feat: add validation checks and error handling
