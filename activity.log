@@ -49,3 +49,4 @@
 [2025-10-20T19:28:49+05:30] feat: add validation checks and error handling
 [2025-10-21T09:05:57+05:30] fix: resolve edge-case boundary conditions
 [2025-10-21T12:11:12+05:30] feat: add validation checks and error handling
+[2025-10-21T14:57:01+05:30] docs: clarify API usage examples in guide
