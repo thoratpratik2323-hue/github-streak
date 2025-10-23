@@ -56,3 +56,4 @@
 [2025-10-21T19:45:38+05:30] feat: implement utility functions and data helpers
 [2025-10-22T09:37:30+05:30] style: format codebase according to style guides
 [2025-10-22T15:21:41+05:30] refactor: improve code readability and module structure
+[2025-10-23T10:29:21+05:30] docs: clarify API usage examples in guide
