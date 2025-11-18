@@ -126,3 +126,4 @@
 [2025-11-17T13:00:45+05:30] chore: sync workspace build parameters
 [2025-11-17T16:00:25+05:30] docs: clarify API usage examples in guide
 [2025-11-18T14:10:54+05:30] fix: resolve edge-case boundary conditions
+[2025-11-18T16:02:44+05:30] test: add unit test coverage and assertions
