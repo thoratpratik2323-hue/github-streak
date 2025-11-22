@@ -138,3 +138,4 @@
 [2025-11-21T11:06:43+05:30] docs: clarify API usage examples in guide
 [2025-11-21T15:13:12+05:30] chore: update dependencies and configuration
 [2025-11-21T18:55:54+05:30] docs: clarify API usage examples in guide
+[2025-11-22T09:19:11+05:30] feat: add validation checks and error handling
