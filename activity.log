@@ -178,3 +178,4 @@
 [2025-12-07T15:14:50+05:30] docs: clarify API usage examples in guide
 [2025-12-08T10:03:23+05:30] refactor: improve code readability and module structure
 [2025-12-08T11:24:08+05:30] refactor: extract reusable subroutines
+[2025-12-08T13:48:42+05:30] chore: sync workspace build parameters
