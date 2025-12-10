@@ -188,3 +188,4 @@
 [2025-12-09T19:03:11+05:30] fix: resolve edge-case boundary conditions
 [2025-12-09T22:23:12+05:30] fix: resolve edge-case boundary conditions
 [2025-12-10T14:47:53+05:30] chore: update dependencies and configuration
+[2025-12-10T17:19:44+05:30] style: format codebase according to style guides
