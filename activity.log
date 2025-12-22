@@ -217,3 +217,4 @@
 [2025-12-21T11:37:24+05:30] feat: add validation checks and error handling
 [2025-12-21T18:55:21+05:30] feat: add validation checks and error handling
 [2025-12-21T19:37:36+05:30] chore: sync workspace build parameters
+[2025-12-22T09:21:56+05:30] refactor: extract reusable subroutines
