@@ -255,3 +255,4 @@
 [2026-01-01T20:11:29+05:30] docs: update project documentation and notes
 [2026-01-01T21:16:12+05:30] test: add unit test coverage and assertions
 [2026-01-01T22:48:25+05:30] docs: clarify API usage examples in guide
+[2026-01-02T12:38:20+05:30] chore: sync workspace build parameters
