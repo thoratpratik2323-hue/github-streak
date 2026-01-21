@@ -313,3 +313,4 @@
 [2026-01-20T12:49:30+05:30] test: add unit test coverage and assertions
 [2026-01-20T17:24:05+05:30] style: format codebase according to style guides
 [2026-01-20T20:42:55+05:30] refactor: extract reusable subroutines
+[2026-01-21T15:15:08+05:30] docs: clarify API usage examples in guide
