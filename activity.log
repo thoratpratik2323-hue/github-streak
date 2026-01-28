@@ -332,3 +332,4 @@
 [2026-01-27T20:16:27+05:30] refactor: improve code readability and module structure
 [2026-01-28T09:12:21+05:30] docs: clarify API usage examples in guide
 [2026-01-28T18:57:32+05:30] docs: clarify API usage examples in guide
+[2026-01-28T20:11:49+05:30] feat: implement utility functions and data helpers
