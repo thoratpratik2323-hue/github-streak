@@ -333,3 +333,4 @@
 [2026-01-28T09:12:21+05:30] docs: clarify API usage examples in guide
 [2026-01-28T18:57:32+05:30] docs: clarify API usage examples in guide
 [2026-01-28T20:11:49+05:30] feat: implement utility functions and data helpers
+[2026-01-29T12:33:32+05:30] test: add unit test coverage and assertions
