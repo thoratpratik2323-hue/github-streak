@@ -338,3 +338,4 @@
 [2026-01-30T09:09:53+05:30] test: add unit test coverage and assertions
 [2026-01-31T09:31:00+05:30] docs: update project documentation and notes
 [2026-01-31T20:20:50+05:30] refactor: extract reusable subroutines
+[2026-02-02T09:16:16+05:30] docs: clarify API usage examples in guide
