@@ -359,3 +359,4 @@
 [2026-02-10T22:13:41+05:30] refactor: improve code readability and module structure
 [2026-02-11T09:20:06+05:30] perf: optimize execution efficiency and algorithms
 [2026-02-11T13:03:54+05:30] feat: add validation checks and error handling
+[2026-02-12T10:05:04+05:30] docs: clarify API usage examples in guide
