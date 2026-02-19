@@ -385,3 +385,4 @@
 [2026-02-18T22:31:12+05:30] feat: implement utility functions and data helpers
 [2026-02-19T10:10:01+05:30] feat: implement utility functions and data helpers
 [2026-02-19T11:51:11+05:30] docs: clarify API usage examples in guide
+[2026-02-19T12:26:39+05:30] refactor: extract reusable subroutines
