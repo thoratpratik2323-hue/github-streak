@@ -421,3 +421,4 @@
 [2026-03-05T10:24:25+05:30] fix: resolve edge-case boundary conditions
 [2026-03-05T22:34:14+05:30] docs: clarify API usage examples in guide
 [2026-03-06T12:51:47+05:30] style: format codebase according to style guides
+[2026-03-06T17:48:45+05:30] chore: sync workspace build parameters
