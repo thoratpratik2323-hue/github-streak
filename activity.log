@@ -493,3 +493,4 @@
 [2026-04-06T15:31:35+05:30] test: add unit test coverage and assertions
 [2026-04-06T21:33:22+05:30] refactor: extract reusable subroutines
 [2026-04-06T22:49:48+05:30] fix: resolve edge-case boundary conditions
+[2026-04-07T09:16:07+05:30] docs: clarify API usage examples in guide
