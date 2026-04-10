@@ -502,3 +502,4 @@
 [2026-04-09T21:35:18+05:30] refactor: improve code readability and module structure
 [2026-04-10T10:13:54+05:30] chore: update dependencies and configuration
 [2026-04-10T14:51:14+05:30] fix: resolve edge-case boundary conditions
+[2026-04-10T19:30:26+05:30] docs: clarify API usage examples in guide
