@@ -521,3 +521,4 @@
 [2026-04-17T18:29:55+05:30] chore: sync workspace build parameters
 [2026-04-18T09:53:11+05:30] docs: clarify API usage examples in guide
 [2026-04-19T16:29:03+05:30] chore: update dependencies and configuration
+[2026-04-20T14:48:15+05:30] feat: add validation checks and error handling
