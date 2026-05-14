@@ -586,3 +586,4 @@
 [2026-05-13T22:48:49+05:30] chore: update dependencies and configuration
 [2026-05-14T09:14:32+05:30] style: format codebase according to style guides
 [2026-05-14T10:52:55+05:30] test: add unit test coverage and assertions
+[2026-05-14T11:17:25+05:30] chore: sync workspace build parameters
