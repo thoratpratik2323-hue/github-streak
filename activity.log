@@ -593,3 +593,4 @@
 [2026-05-17T10:16:19+05:30] chore: update dependencies and configuration
 [2026-05-17T14:43:54+05:30] feat: implement utility functions and data helpers
 [2026-05-18T09:39:40+05:30] docs: clarify API usage examples in guide
+[2026-05-18T13:10:30+05:30] chore: sync workspace build parameters
