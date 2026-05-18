@@ -595,3 +595,4 @@
 [2026-05-18T09:39:40+05:30] docs: clarify API usage examples in guide
 [2026-05-18T13:10:30+05:30] chore: sync workspace build parameters
 [2026-05-18T15:41:14+05:30] feat: implement utility functions and data helpers
+[2026-05-18T18:04:22+05:30] chore: update dependencies and configuration
