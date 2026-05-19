@@ -603,3 +603,4 @@
 [2026-05-19T12:16:28+05:30] docs: clarify API usage examples in guide
 [2026-05-19T15:03:45+05:30] docs: clarify API usage examples in guide
 [2026-05-19T17:42:24+05:30] docs: clarify API usage examples in guide
+[2026-05-19T19:06:21+05:30] test: add unit test coverage and assertions
