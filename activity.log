@@ -615,3 +615,4 @@
 [2026-05-23T19:34:43+05:30] style: format codebase according to style guides
 [2026-05-24T11:50:37+05:30] fix: resolve edge-case boundary conditions
 [2026-05-24T16:06:45+05:30] fix: resolve edge-case boundary conditions
+[2026-05-25T10:11:33+05:30] test: add unit test coverage and assertions
