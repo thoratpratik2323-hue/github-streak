@@ -744,3 +744,4 @@
 [2026-07-18T21:08:11+05:30] refactor: improve code readability and module structure
 [2026-07-20T10:56:27+05:30] chore: update dependencies and configuration
 [2026-07-20T12:19:36+05:30] docs: update project documentation and notes
+[2026-07-20T14:17:56+05:30] docs: clarify API usage examples in guide
