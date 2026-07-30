@@ -769,3 +769,4 @@
 [2026-07-29T18:59:06+05:30] refactor: extract reusable subroutines
 [2026-07-29T21:07:03+05:30] feat: add validation checks and error handling
 [2026-07-29T22:08:52+05:30] docs: update project documentation and notes
+[2026-07-30T14:00:09+05:30] docs: clarify API usage examples in guide
