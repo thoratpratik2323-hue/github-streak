@@ -791,3 +791,4 @@
 [2026-08-04T22:01:57+05:30] docs: clarify API usage examples in guide
 [2026-08-05T17:30:53+05:30] refactor: extract reusable subroutines
 [2026-08-05T19:55:29+05:30] style: format codebase according to style guides
+[2026-08-05T22:49:45+05:30] feat: add validation checks and error handling
