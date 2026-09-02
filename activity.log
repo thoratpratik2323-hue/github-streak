@@ -856,3 +856,4 @@
 [2026-08-31T21:10:58+05:30] feat: add validation checks and error handling
 [2026-09-01T19:30:55+05:30] refactor: improve code readability and module structure
 [2026-09-02T12:54:23+05:30] docs: clarify API usage examples in guide
+[2026-09-02T14:26:12+05:30] chore: sync workspace build parameters
