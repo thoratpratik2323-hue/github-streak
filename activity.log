@@ -864,3 +864,4 @@
 [2026-09-04T15:02:12+05:30] chore: update dependencies and configuration
 [2026-09-04T18:04:40+05:30] fix: resolve edge-case boundary conditions
 [2026-09-04T19:22:49+05:30] docs: clarify API usage examples in guide
+[2026-09-04T21:16:47+05:30] style: format codebase according to style guides
